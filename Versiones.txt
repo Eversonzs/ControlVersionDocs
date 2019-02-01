@@ -1,3 +1,6 @@
 Version 2 de un txt
 
-mas texto añadido
+mas texto 
+
+testing
+pruebas
